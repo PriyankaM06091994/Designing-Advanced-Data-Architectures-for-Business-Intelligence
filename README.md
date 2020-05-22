@@ -29,6 +29,7 @@
 ### Steps:
 •	Analyzed data for source/target mappings and performed data profiling on Adventure Works 2017 database
 •	Created data model in ER Studio Data Architect and performed DDL operations on the target database
+•	Implemented error handling and inserted the bad data into reject tables along with their respective reject codes and reject reasons
 •	Performed data cleansing and loaded data into Adventure Works Purchasing DW using Alteryx and Talend
 •	Designed visualization reports and interactive dashboards on Power BI and Tableau to gain better insights
 
