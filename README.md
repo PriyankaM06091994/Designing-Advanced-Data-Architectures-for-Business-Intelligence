@@ -42,11 +42,11 @@ f) Determined table attributes and performed source to target mappings
 
 #### Description:
 
-1.Analyzed data for source/target mappings and performed data profiling on Adventure Works 2017 database 
-2.Created data model in ER Studio Data Architect and performed DDL operations on the target database 
-3.Implemented error handling and inserted the unwanted data into reject tables along with their respective reject codes and reject reasons 
-4.Performed data cleansing and loaded data into Adventure Works Purchasing DW using Alteryx and Talend 
-5.Designed visualization reports and interactive dashboards on Power BI and Tableau to gain better insights
+1. Analyzed data for source/target mappings and performed data profiling on Adventure Works 2017 database 
+2. Created data model in ER Studio Data Architect and performed DDL operations on the target database 
+3. Implemented error handling and inserted the unwanted data into reject tables along with their respective reject codes and reject reasons 
+4. Performed data cleansing and loaded data into Adventure Works Purchasing DW using Alteryx and Talend 
+5. Designed visualization reports and interactive dashboards on Power BI and Tableau to gain better insights
 
 ## Final Project - IMDB Data and Analysis
 
