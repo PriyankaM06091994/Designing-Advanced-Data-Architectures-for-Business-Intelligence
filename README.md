@@ -1,16 +1,16 @@
 # Designing Advanced Data Architectures for Business Intelligence
 
-## Every Assignemnt has it's own ReadMe for detailed explanation.
+### Every Assignemnt has it's own ReadMe for detailed explanation.
 
 
-### Assignment1 - Sakila Database
+## Assignment1 - Sakila Database
 
 #### Description:
 
 1. Formulated advanced SQL queries on Sakila Database
 2. Created data visualizations on Power BI
 
-### Assignment 2 - Chinook Database
+## Assignment 2 - Chinook Database
 
 #### Description:
 
@@ -25,7 +25,7 @@ f) Determined table attributes and performed source to target mappings
 3. Generated DDL, created tables and uploaded data in the target database viz SQL Server, MySQL, PostgreSQL and Oracle 11g
 4. Created visualization reports and dashboards in Power BI
 
-### Assignment 3 - NYPD
+## Assignment 3 - NYPD
 
 #### Description:
 
@@ -36,7 +36,7 @@ f) Determined table attributes and performed source to target mappings
 5. Created visualization reports in Power BI and Tableau using NYPD database
 
 
-### Project1 - Adventure Works Purchasing DW
+## Project1 - Adventure Works Purchasing DW
 
 #### Description:
 
@@ -46,7 +46,7 @@ f) Determined table attributes and performed source to target mappings
 4.Performed data cleansing and loaded data into Adventure Works Purchasing DW using Alteryx and Talend 
 5.Designed visualization reports and interactive dashboards on Power BI and Tableau to gain better insights
 
-### Final Project - IMDB Data and Analysis
+## Final Project - IMDB Data and Analysis
 
 #### Description:
 
