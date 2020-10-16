@@ -8,7 +8,7 @@
 #### Description:
 
 1. Formulated advanced SQL queries on Sakila Database
-2. Created data visualizations on Power BI
+2. Implemented data visualizations on Power BI
 
 ## Assignment 2 - Chinook Database
 
@@ -19,7 +19,7 @@
 a) Listed facts & dimensions 
 b) Made a list of tables to be combined
 c) Created date and calendar dimensions
-d) Also applied SCD’s (slowly changing dimension) on these tables
+d) Applied SCD’s (slowly changing dimension) on respective tables
 e) Created tables with surrogate SKs, NKs & FKs
 f) Determined table attributes and performed source to target mappings
 
@@ -43,16 +43,17 @@ f) Determined table attributes and performed source to target mappings
 #### Description:
 
 1. Analyzed data for source/target mappings and performed data profiling on Adventure Works 2017 database 
-2. Created data model in ER Studio Data Architect and performed DDL operations on the target database 
+2. Created dimensional data model in ER Studio Data Architect and performed DDL operations on the target database 
 3. Implemented error handling and inserted the unwanted data into reject tables along with their respective reject codes and reject reasons 
 4. Performed data cleansing and loaded data into Adventure Works Purchasing DW using Alteryx and Talend 
-5. Designed visualization reports and interactive dashboards on Power BI and Tableau to gain better insights
+5. Designed visualization reports and interactive dashboards on Power BI and Tableau answering business questions to gain better insights
 
 ## Final Project - IMDB Data and Analysis
 
 #### Description:
 
-1. Designed dimensional model in ER Studio Data Architect
-2. Performed data profiling and loaded data from tsv/csv files into the staging tables using Talend
-3. Used these staging tables to populate the dimensional tables using Talend
-4. Created dashboards and visualizations on Tableau and Power BI for answering business questions and to gain better insights
+1. Designed dimensional data models in ER Studio Data Architect
+2. Created Staging tables using SQL scripts on Microsoft SQL Server
+3. Performed data profiling and loaded data from tsv/csv files into the staging tables using Talend
+4. Used these staging tables to populate the dimensional tables using Talend
+5. Created dashboards and visualizations on Tableau and Power BI for answering business questions and to gain better insights
