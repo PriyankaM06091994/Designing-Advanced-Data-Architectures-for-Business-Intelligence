@@ -54,6 +54,7 @@ f) Determined table attributes and performed source to target mappings
 
 1. Designed dimensional data models in ER Studio Data Architect
 2. Created Staging tables using SQL scripts on Microsoft SQL Server
-3. Performed data profiling and loaded data from tsv/csv files into the staging tables using Talend
-4. Used these staging tables to populate the dimensional tables using Talend
-5. Created dashboards and visualizations on Tableau and Power BI for answering business questions and to gain better insights
+3. Maintained SOR (System of Record) table to maintain authorized sources for a particular data subject
+4. Performed data profiling and loaded data from tsv/csv files into the staging tables using Talend
+5. Used these staging tables to populate the dimensional tables using Talend
+6. Created dashboards and visualizations on Tableau and Power BI for answering business questions and to gain better insights
