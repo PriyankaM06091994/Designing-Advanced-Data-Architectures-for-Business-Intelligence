@@ -13,6 +13,8 @@
 
 #### Description
 
+1. Formulated advanced SQL queries on Sakila Database
+2. Implemented data visualizations on Power BI
 
 
 
