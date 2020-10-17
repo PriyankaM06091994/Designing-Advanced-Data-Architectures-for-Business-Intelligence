@@ -1,6 +1,6 @@
 # Designing Advanced Data Architectures for Business Intelligence
 
-#### Team Information
+#### Team Information:
 
 | NAME              |     NUID        |
 |------------------ |-----------------|
@@ -27,3 +27,5 @@
 3. Implemented error handling and inserted the unwanted data into reject tables along with their respective reject codes and reject reasons
 4. Performed data cleansing and loaded data into Adventure Works Purchasing DW using tools like Alteryx and Talend
 5. Implemented visualization reports and interactive dashboards on Power BI and Tableau answering business questions to gain better insights
+
+
