@@ -22,7 +22,7 @@ e) Created tables with surrogate SKs, NKs & FKs f) Determined table attributes a
 
 #### 3. Generated DDL, created tables and uploaded data in the target database viz SQL Server, MySQL, PostgreSQL and Oracle 11g
 
-#### 4. Created visualization reports and dashboards in Power BI
+#### 4. Implemented visualization reports and dashboards in Power BI
 
 
 
