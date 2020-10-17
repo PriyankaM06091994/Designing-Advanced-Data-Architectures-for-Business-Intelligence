@@ -25,7 +25,7 @@ f) Determined table attributes and performed source to target mappings
 
 2. Created data model in ER/Studio Data Architect
 3. Generated DDL, created tables and uploaded data in the target database viz SQL Server, MySQL, PostgreSQL and Oracle 11g
-4. Created visualization reports and dashboards in Power BI
+4. Implemented visualization reports and dashboards in Power BI
 
 ## Assignment 3 - NYPD
 
@@ -35,7 +35,7 @@ f) Determined table attributes and performed source to target mappings
 2. Generated DDL and created schema in NYPD Database – MySQL
 3. Performed data profiling and cleansing processes
 4. Loaded data into data model from respective CSV’s using Talend
-5. Created visualization reports in Power BI and Tableau using NYPD database
+5. Implemented visualization reports in Power BI and Tableau using NYPD database
 
 
 ## Project1 - Adventure Works Purchasing DW
@@ -46,7 +46,7 @@ f) Determined table attributes and performed source to target mappings
 2. Created dimensional data model in ER Studio Data Architect and performed DDL operations on the target database 
 3. Implemented error handling and inserted the unwanted data into reject tables along with their respective reject codes and reject reasons 
 4. Performed data cleansing and loaded data into Adventure Works Purchasing DW using Alteryx and Talend 
-5. Designed visualization reports and interactive dashboards on Power BI and Tableau answering business questions to gain better insights
+5. Implemented visualization reports and interactive dashboards on Power BI and Tableau answering business questions to gain better insights
 
 ## Final Project - IMDB Data and Analysis
 
@@ -57,4 +57,4 @@ f) Determined table attributes and performed source to target mappings
 3. Maintained SOR (System of Record) table to maintain authorized sources for a particular data subject
 4. Performed data profiling and loaded data from tsv/csv files into the staging tables using Talend
 5. Used these staging tables to populate the dimensional tables using Talend
-6. Created dashboards and visualizations on Tableau and Power BI for answering business questions and to gain better insights
+6. Implemented dashboards and visualizations on Tableau and Power BI for answering business questions and to gain better insights
