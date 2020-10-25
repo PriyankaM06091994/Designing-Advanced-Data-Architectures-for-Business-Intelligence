@@ -49,6 +49,7 @@
 
 ### IMDB Dimensional Model:
 
+![IMDB_Dimensional_Model](https://user-images.githubusercontent.com/59594174/97101083-a7a9bf80-1670-11eb-9252-f33b2f55a2bd.PNG)
 
 1. Basic information about people in cast, crew, writers and directors
 2. Basic titles information
@@ -61,7 +62,22 @@
 
 ### Staging and Dimensional Tables
 
+![DimensionalTables](https://user-images.githubusercontent.com/59594174/97101086-bb552600-1670-11eb-8786-3b16e6f16491.PNG)
+
 ### Talend Jobs
 
+![dim_imdb_genres](https://user-images.githubusercontent.com/59594174/97101095-c740e800-1670-11eb-9cb2-ace62b4af8e9.PNG)
+
+![dim_imdb_titles](https://user-images.githubusercontent.com/59594174/97101097-c9a34200-1670-11eb-857a-33a580c649b7.PNG)
+
+![dim_name_PP](https://user-images.githubusercontent.com/59594174/97101099-cb6d0580-1670-11eb-8cfd-08b8b7780dee.PNG)
+
+![fact_imdb_brands](https://user-images.githubusercontent.com/59594174/97101100-ce67f600-1670-11eb-8cf6-10fc62978eb1.PNG)
+
+![fact_rejects](https://user-images.githubusercontent.com/59594174/97101102-d0ca5000-1670-11eb-9379-29848d757955.PNG)
+
+
 ### Tableau Dashboards
+
+![IMDBDashboard](https://user-images.githubusercontent.com/59594174/97101106-d32caa00-1670-11eb-9a88-ebdbe644404d.png)
 
