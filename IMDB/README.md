@@ -15,8 +15,9 @@
 1. Designed dimensional data models in ER Studio Data Architect comprising of facts and dimensions
 2. Ingested initial set of tsv and csv files into staging tables
 3. Performed data consistency and cleansing processes
-4. Performed data integration by populating data from staging tables into the dimensional tables using Talend
-5. Implemented dashboards on each subject area using Tableau and Power BI for answering business questions
+4. Implemented error handling and inserted the unwanted data into reject tables along with their respective reject codes and reject reasons
+5. Performed data integration by populating data from staging tables into the dimensional tables using Talend
+6. Implemented dashboards on each subject area using Tableau and Power BI for answering business questions
 
 ### IMDB Datasets:
 
