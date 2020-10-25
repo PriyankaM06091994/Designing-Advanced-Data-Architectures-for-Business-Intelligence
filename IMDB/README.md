@@ -49,14 +49,14 @@
 ### IMDB Dimensional Model:
 
 
-• Basic information about people in cast, crew, writers and directors
-• Basic titles information
-• Enhanced title information such as aliases, languages, countries
-• Director and writer information for all the titles
-• TV episodes information and Principal cast/crew for titles
-• Title Ratings and Box Office revenue
-• Movie franchises and Movie brands
-• Dimensional tables for Country, Languages, Movie Genres, Job Categories and Types of Titles
+1. Basic information about people in cast, crew, writers and directors
+2. Basic titles information
+3. Enhanced title information such as aliases, languages, countries
+4. Director and writer information for all the titles
+5. TV episodes information and Principal cast/crew for titles
+6. Title Ratings and Box Office revenue
+7. Movie franchises and Movie brands
+8. Dimensional tables for Country, Languages, Movie Genres, Job Categories and Types of Titles
 
 ### Staging and Dimensional Tables
 
