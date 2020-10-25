@@ -19,7 +19,7 @@
 5. Performed data integration by populating data from staging tables into the dimensional tables using Talend
 6. Implemented dashboards on each subject area using Tableau and Power BI for answering business questions
 
-### IMDB Datasets:
+## IMDB Datasets:
 
 1. title.akas.tsv.gz, title.basics.tsv.gz - Contains information for titles
 
@@ -47,7 +47,7 @@
 • Links Data File Structure (MovieLens_ links.csv)
 • Tag Genome (MovieLens_ genome-scores.csv and MovieLens_ genome-tags.csv)
 
-### IMDB Dimensional Model:
+## IMDB Dimensional Model:
 
 ![IMDB_Dimensional_Model](https://user-images.githubusercontent.com/59594174/97101083-a7a9bf80-1670-11eb-9252-f33b2f55a2bd.PNG)
 
@@ -60,13 +60,13 @@
 7. Movie franchises and Movie brands
 8. Dimensional tables for Country, Languages, Movie Genres, Job Categories and Types of Titles
 
-### Staging and Dimensional Tables
+## Staging and Dimensional Tables
 
 
 ![DimensionalTables](https://user-images.githubusercontent.com/59594174/97101086-bb552600-1670-11eb-8786-3b16e6f16491.PNG)
 
 
-### Talend Jobs
+## Talend Jobs
 
 ![dim_imdb_genres](https://user-images.githubusercontent.com/59594174/97101095-c740e800-1670-11eb-9cb2-ace62b4af8e9.PNG)
 
@@ -83,7 +83,7 @@
 ![fact_rejects](https://user-images.githubusercontent.com/59594174/97101102-d0ca5000-1670-11eb-9379-29848d757955.PNG)
 
 
-### Tableau Dashboard
+## Tableau Dashboard
 
 ![IMDBDashboard](https://user-images.githubusercontent.com/59594174/97101106-d32caa00-1670-11eb-9a88-ebdbe644404d.png)
 
