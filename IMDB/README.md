@@ -8,24 +8,59 @@
 | Tanvi Gurav       |   001306848     |
 | Siddhi Prabhu     |   001342165     |
 
-## Project 1 - Adventure Works 
-
-### Objectives:
-
-1. Listed all the products purchased by Adventure Works from vendors viz Purchase Orders
-2. Listed product attributes like list price, standard cost, model name, subcategory name and category name
-3. Applied SCD2 (slowly changing dimensions) on list prices, standard costs and employee pay
-4. Listed all the dimensions in regards with Adventure Works which includes people, vendors, purchase orders, products, sales territories, ship methods etc.
-5. Included Geography dimension that Adventure Works could use as outrigger for dimensions mentioned above
-6. Included calendar dimension that Adventure Works could use for facts and dimensions
-7. Included product inventory dimension for purchased products and locations stored in
+## Final Project  - IMDB Data and Analysis
 
 ### Description:
 
-1. Analyzed data for source/target mappings and performed data profiling on Adventure Works 2017 database
-2. Created dimensional data model in ER Studio Data Architect and performed DDL operations on the target database
-3. Implemented error handling and inserted the unwanted data into reject tables along with their respective reject codes and reject reasons
-4. Performed data cleansing and loaded data into Adventure Works Purchasing DW using tools like Alteryx and Talend
-5. Implemented visualization reports and interactive dashboards on Power BI and Tableau answering business questions to gain better insights
+1. Designed dimensional data models in ER Studio Data Architect comprising of facts and dimensions
+2. Ingested initial set of tsv and csv files into staging tables
+3. Performed data consistency and cleansing processes
+4. Performed data integration by populating data from staging tables into the dimensional tables using Talend
+5. Implemented dashboards on each subject area using Tableau and Power BI for answering business questions
 
+### IMDB Datasets:
+
+1. title.akas.tsv.gz, title.basics.tsv.gz - Contains information for titles
+
+2. title.crew.tsv.gz – Contains the director and writer information for all the titles in IMDB
+
+3. title.episode.tsv.gz – Contains the tv episode information
+
+4. title.principals.tsv.gz – Contains the principal cast/crew for titles
+
+5. title.ratings.tsv.gz – Contains the IMDb rating and votes information for titles
+
+6. name.basics.tsv.gz – Contains information for names
+
+7. IMDB ISO Datasets - countries_iso.tsv,language-codes-iso.tsv - Contains information for countries and languages
+
+8. World Wide Box Office All Time Top 1000.tsv - Contains information about the world wide Top 1000 Movies
+
+9. IMDb BoxOfficeMojo-Franchises.tsv – Contains aggregate data for all franchises
+
+10. IMDb BoxOfficeMojo-Brands.tsv - Contains aggregate data for all brands
+
+11. Movie Lens Data:
+• Ratings Data File Structure (MovieLens_ ratings.csv)
+• Tags Data File Structure (MovieLens_ tags.csv)
+• Links Data File Structure (MovieLens_ links.csv)
+• Tag Genome (MovieLens_ genome-scores.csv and MovieLens_ genome-tags.csv)
+
+### IMDB Dimensional Model:
+
+
+• Basic information about people in cast, crew, writers and directors
+• Basic titles information
+• Enhanced title information such as aliases, languages, countries
+• Director and writer information for all the titles
+• TV episodes information and Principal cast/crew for titles
+• Title Ratings and Box Office revenue
+• Movie franchises and Movie brands
+• Dimensional tables for Country, Languages, Movie Genres, Job Categories and Types of Titles
+
+### Staging and Dimensional Tables
+
+### Talend Jobs
+
+### Tableau Dashboards
 
