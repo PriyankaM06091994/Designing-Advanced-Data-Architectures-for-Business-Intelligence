@@ -84,6 +84,14 @@
 
 ![fact_rejects](https://user-images.githubusercontent.com/59594174/97101102-d0ca5000-1670-11eb-9379-29848d757955.PNG)
 
+## Talend Master Job
+
+![Masterjob](https://user-images.githubusercontent.com/59594174/103116370-44b6b380-4634-11eb-9975-d4cc4c9759b7.jpg)
+
+![MasterJob1](https://user-images.githubusercontent.com/59594174/103116387-5730ed00-4634-11eb-8267-bae5de7308a4.jpg)
+
+![MasterJob2](https://user-images.githubusercontent.com/59594174/103116413-6c0d8080-4634-11eb-979e-f2733ca91205.jpg)
+
 
 ## Tableau Dashboard
 
