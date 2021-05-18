@@ -16,12 +16,12 @@
 
 1. Converted ER Model to Dimensional Model
 
-a) Listed facts & dimensions 
-b) Made a list of tables to be combined
-c) Created date and calendar dimensions
-d) Applied SCD’s (slowly changing dimension) on respective tables
-e) Created tables with surrogate SKs, NKs & FKs
-f) Determined table attributes and performed source to target mappings
+- Listed facts & dimensions 
+- Made a list of tables to be combined
+- Created date and calendar dimensions
+- Applied SCD’s (slowly changing dimension) on respective tables
+- Created tables with surrogate SKs, NKs & FKs
+- Determined table attributes and performed source to target mappings
 
 2. Created data model in ER/Studio Data Architect
 3. Generated DDL, created tables and uploaded data in the target database viz SQL Server, MySQL, PostgreSQL and Oracle 11g
